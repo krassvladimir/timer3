@@ -1,11 +1,13 @@
-JustYou Fitness Timer v3.4.0
+JustYou Fitness Timer v4.0.0
 
 Změny:
-- silnější upozornění v 10, 5 a 1 minutě
-- blikání obrazovky pouze posledních 10 sekund
-- krátké pípnutí každou z posledních 10 sekund
-- osm sekund střídavého alarmu při konci rezervace
-- automatický přechod na další rezervaci
-- ES5 kompatibilita pro starší Android 8 tablet
+- odpočet v minutách (75 min) a poslední minuta v sekundách
+- příjemnější upozorňovací zvuky bez sirény
+- výpočet každou sekundu přímo podle systémových hodin tabletu
+- okamžitá synchronizace po návratu do aplikace nebo probuzení
+- watchdog proti zamrznutí
+- automatický noční reload ve 03:05
+- rozšířené servisní menu s restartem a stavem synchronizace
+- zachována kompatibilita se starým Androidem 8 / ES5
 
-Servisní menu: 5x rychle klepněte na logo.
+Poznámka: nastavení tabletu „Zůstat vzhůru při nabíjení“ ponechte zapnuté.
