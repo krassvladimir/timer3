@@ -1,4 +1,4 @@
-JustYou Fitness Timer v4.0.0
+JustYou Fitness Timer v4.0.2
 
 Změny:
 - odpočet v minutách (75 min) a poslední minuta v sekundách
@@ -11,3 +11,9 @@ Změny:
 - zachována kompatibilita se starým Androidem 8 / ES5
 
 Poznámka: nastavení tabletu „Zůstat vzhůru při nabíjení“ ponechte zapnuté.
+
+
+Verze 4.0.4:
+- čistě černé pozadí #000000
+- odstraněn šedý odstín JPEG pozadí kolem loga
+- zachovány opravy poslední minuty a pokynů k odchodu
