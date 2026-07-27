@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  var VERSION = '4.0.2';
+  var VERSION = '4.0.6';
   var BUILD_DATE = '2026-07-27';
   var NIGHTLY_RELOAD_HOUR = 3;
   var NIGHTLY_RELOAD_MINUTE = 5;
@@ -101,7 +101,7 @@
     seconds = Math.floor(seconds);
     var minutes = Math.floor(seconds / 60);
     var secs = seconds % 60;
-    var separator = secs % 2 === 0 ? ':' : '<span class="timer-colon timer-colon-off">:</span>';
+    var separator = ':';
     return pad(minutes) + separator + pad(secs);
   }
 
