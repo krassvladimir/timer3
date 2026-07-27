@@ -13,7 +13,9 @@ Změny:
 Poznámka: nastavení tabletu „Zůstat vzhůru při nabíjení“ ponechte zapnuté.
 
 
-Verze 4.0.4:
+Verze 4.0.5:
 - čistě černé pozadí #000000
 - odstraněn šedý odstín JPEG pozadí kolem loga
 - zachovány opravy poslední minuty a pokynů k odchodu
+
+Nově: odpočet MM:SS včetně sekund, blikající dvojtečka, posledních 10 sekund zvětšených a blikajících, závěrečné instrukce po dobu 30 sekund.
