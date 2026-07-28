@@ -1,4 +1,4 @@
-JustYou Fitness Timer v4.0.2
+JustYou Fitness Timer v4.0.8
 
 Změny:
 - odpočet v minutách (75 min) a poslední minuta v sekundách
